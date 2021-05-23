@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HomeTask_1</string>
+    <string name="bt_text">Please enter text in box bellow</string>
+    <string name="my_first_task">Thanks!</string>
 </resources>
